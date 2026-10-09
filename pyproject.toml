@@ -1,0 +1,10 @@
+[project]
+name = "tarea03-agente"
+version = "0.1.0"
+description = "Simulador de un agente reflejo simple seguidor de líneas (Tarea 3, Diseño de Agentes)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pillow>=12.3.0",
+]
